@@ -14,7 +14,7 @@ public class DemoApplicationTests {
 		 MyClass tester = new MyClass(); // MyClass is tested
 
         // assert statements
-        assertEquals(0, tester.multiply(1055, 0), "10 x 0 must be 0");
+        assertEquals(0, tester.multiply(1055, 15), "10 x 0 must be 0");
 	}
 
 }
