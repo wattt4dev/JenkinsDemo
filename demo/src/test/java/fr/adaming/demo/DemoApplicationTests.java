@@ -17,4 +17,4 @@ public class DemoApplicationTests {
         assertEquals(0, tester.multiply(1055, 15), "10 x 0 must be 0");
 	}
 
-}
+
